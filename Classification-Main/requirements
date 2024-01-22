@@ -1,0 +1,7 @@
+tensorflow==2.9.2
+pillow==latest works
+numpy==1.21.0
+protobuf==3.20.0
+onnxruntime==1.13.1
+onnx==1.13.0
+tf2onnx==1.13.0
